@@ -1,3 +1,3 @@
 # python win32api
 
-Windows でマウスとキーボードの操作を python から行うプログラム
+Windowsでwin32apiを使いマウスとキーボードの操作をpythonから行うプログラム
